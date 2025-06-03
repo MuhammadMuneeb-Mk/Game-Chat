@@ -5,7 +5,7 @@ A real-time multiplayer chat application inspired by in-game chat systems. Built
 ---
 
 📂 Project Structure
-  /index.js # Server-side Node.js with Socket.IO
+  /index.js # Server-side Node.js with Socket.IO\n
   /chat.db  # SQLite database (optional)
   /package.json # Project metadata and dependencies
   /frontend/
