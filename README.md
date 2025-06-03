@@ -44,4 +44,9 @@ A real-time multiplayer chat application inspired by in-game chat systems. Built
   - [Node.js](https://nodejs.org/)  
   - npm socket  
   - npm express   
-  - npm nodemon (Optional for automatic server Starting and Restarting)  
+  - npm nodemon (Optional for automatic server Starting and Restarting)
+
+📥 Setup
+install all three nodes and then start the start the server using  
+node index.js  
+by typing it in the terminal and then access the local host through any browser [default port is 3000]
